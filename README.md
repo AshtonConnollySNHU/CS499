@@ -13,4 +13,15 @@ This ePortfolio showcases an upgraded version of a Contact Service Application I
 - *Secure Coding*
 - *Professional Communication*
 
- 
+ ### Table Of Contents
+
+ 1. Self-Assessment
+ 2. Code Review
+ 3. *Software Design Enhancement*
+ 4. *Algorithmic / Data Structure Enhancements*
+ 5. *Database Enhancement*
+ 6. *Security Considerations*
+ 7. *Course Outcome Alignment*
+ 8. *One Last Reflection*
+
+### 1. Self-Assessment
