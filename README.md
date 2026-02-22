@@ -1,2 +1,3 @@
 # CS499
-Computer Science Capstone
+## Computer Science Capstone ePortfolio
+### Ashton Connolly || Southern New Hampshire University
